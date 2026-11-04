@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+# personal viva preparation, not part of the project
+VIVA_NOTES.md
